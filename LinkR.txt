@@ -1,0 +1,4 @@
+SVG guidelines
+https://github.com/sdicgdev/svg-icon-guidelines
+W3c vibration API
+https://w3c.github.io/vibration/
